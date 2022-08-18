@@ -1,7 +1,8 @@
 baseURL: https://blog.darshanrander.com
 languageCode: en-us
-title: Darshan's Blog site
+title: Darshan's Blog
 theme: PaperMod
+copyright: "&copy; 2022 [Darshan Rander](https://darshanrander.com) |"
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -14,12 +15,11 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Darshan's Blog site
+  title: Darshan's Blog
   description: "This is a blog site by Darshan Rander"
-  keywords: [Blog, Tech, Dev, Developer]
-  author: Me
-  # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  keywords: [Blog, Darshan Rander]
+  author: Darshan Rander
+  images: []
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -41,13 +41,11 @@ params:
   tocopen: false
 
   assets:
-    # disableHLJS: true # to disable highlight.js
-    # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+    favicon: favicons/favicon.ico
+    favicon16x16: favicons/favicon-16x16.png
+    favicon32x32: favicons/favicon-32x32.png
+    apple_touch_icon: favicons/apple-touch-icon.png
+    safari_pinned_tab: favicons/safari-pinned-tab.svg
 
   # home-info mode
   homeInfoParams:
@@ -72,7 +70,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/SirusCodes/blog/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
@@ -89,7 +87,7 @@ params:
 menu:
   main:
     - name: Archive
-      url: archives
+      url: archives/
       weight: 5
     - name: Search
       url: search/
@@ -99,7 +97,7 @@ menu:
       weight: 10
     - identifier: Categories
       name: Categories
-      url: /categories/
+      url: categories/
       weight: 10
     - identifier: portfolio
       name: darshanrander.com
