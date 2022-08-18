@@ -4,6 +4,10 @@
     <title>Darshan&#39;s Blog</title>
     <link>https://blog.darshanrander.com/</link>
     <description>Recent content on Darshan&#39;s Blog</description>
+    <image>
+      <url>https://darshanrander.com/static/img/og-general.png</url>
+      <link>https://darshanrander.com/static/img/og-general.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2022 [Darshan Rander](https://darshanrander.com) |</copyright><atom:link href="https://blog.darshanrander.com/index.xml" rel="self" type="application/rss+xml" />
