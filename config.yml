@@ -16,10 +16,12 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Darshan's Blog
-  description: "This is a blog site by Darshan Rander"
+  description: "I like to solve problems. Mostly work with app and backend technologies."
   keywords: [Blog, Darshan Rander]
   author: Darshan Rander
-  images: []
+  images:
+    - https://darshanrander.com/static/img/og-general.png
+    - https://darshanrander.com/static/img/og-twitter.png
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -50,7 +52,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B, I'm Darshan"
-    Content: I'm like to solve problems. Mostly work with app and backend technologies.
+    Content: I like to solve problems. Mostly work with app and backend technologies.
 
   socialIcons:
     - name: website
