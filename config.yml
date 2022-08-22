@@ -3,6 +3,7 @@ languageCode: en-us
 title: Darshan's Blog
 theme: PaperMod
 copyright: "&copy; 2022 [Darshan Rander](https://darshanrander.com) |"
+paginate: 10
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -39,7 +40,7 @@ params:
   comments: false
   hidemeta: false
   hideSummary: false
-  showtoc: false
+  showtoc: true
   tocopen: false
 
   assets:
