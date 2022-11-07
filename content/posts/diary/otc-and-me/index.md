@@ -1,7 +1,7 @@
 ---
 title: "Our Tech Community (OTC) and Me"
 summary: Please read the post nothing can summarize this
-date: 2022-11-12T00:00:00+05:30
+date: 2022-11-11T00:00:00+05:30
 draft: true
 tags: ["Our tech community", "OTC", "Diary"]
 cover:
@@ -118,9 +118,9 @@ Everyone who has worked in teams might know how difficult it is to take the whol
 
 Everyone has a different point of view, beliefs and opinions. Which sure does make us slow to do things but we are sure that we have thought this through and tried to look at it from every point of view.
 
-Another recent problem that we are facing is that there was no accountablity of work. We are trying to solve it by giving responsibility to everyone. So what we have done is everyone in the team is responsible for something and for whatever reason they are not able to do it, it's their responsibility to ask someone else to do it for them. What I have learned is to never divide the tasks into micro-tasks, divide them in flows.
+Another recent problem that we are facing is that there was no accountability for work. We are trying to solve it by giving responsibility to everyone. So what we have done is everyone in the team is responsible for something and for whatever reason they are not able to do it, it's their responsibility to ask someone else to do it for them. What I have learned is to never divide the tasks into micro-tasks, divide them in flows.
 
-For example, if you want to get fruits and vegetables, and the shops are beside each other then you might think that it's quicker to have two people, one for fruits and the other for vegetables. But sometimes it's less reliable, by having two people for a task which can be done by one with not much effort just add unneccessary reliance on an extra person and we all might have our fair share of experiences how reliable people are.
+For example, if you want to get fruits and vegetables, and the shops are beside each other then you might think that it's quicker to have two people, one for fruits and the other for vegetables. But sometimes it's less reliable, by having two people for a task which can be done by one with not much effort just add unnecessary reliance on an extra person and we all might have our fair share of experiences how reliable people are.
 
 Keeping calendar reminders and updating tasks in our group has also helped a bit. As these are some new changes that we have implemented we are yet to see the outcome of these changes, but hoping that it works.
 
