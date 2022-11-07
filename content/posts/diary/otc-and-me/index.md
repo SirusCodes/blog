@@ -41,6 +41,8 @@ It was that time when I, [Dheeraj](https://twitter.com/DhiruCodes/) and [Kartik]
 
 > Cannot find 1st CatchUp image 😅 (probably it never existed) and Yes we used [Jitsi](https://meet.jit.si) 🙃
 
+Whenever I talk about CatchUp I can never thank [Sreekaran](https://twitter.com/skxrxn) less for bringing in a lot of great people to CatchUp.
+
 ## Friends for life ❤️
 
 Friends are one of the most important things in my life, and yes, I'm a bit possessive about them. CatchUp gave me a lot of friends like [Himanshu Sharma](https://twitter.com/_SharmaHimanshu), [Ishan Sharma](https://twitter.com/ishandeveloper), [Jai Dewani](https://twitter.com/jai_dewani), [Aditya Oberai](https://twitter.com/adityaoberai1), [Sreekaran](https://twitter.com/skxrxn), [Ayush Pal](https://twitter.com/pal_codes), [Preet Parekh](https://twitter.com/TmPreet), [Rishit Dagli](https://twitter.com/rishit_dagli) and many more (Sorry I'm too lazy to type out all names, but you know you are in my ❤️)
@@ -110,7 +112,17 @@ When I look back I will never regret any time spent on CatchUp ❤️
 
 As we all know everything is not sunshine and rainbows. Recently a lot of things came by and we need to focus on a few things as a team and make some important decisions.
 
-Also, I became Organizer, after becoming Organizer I got to know a lot of things which never thought of earlier. I'm dealing with it at my own pace and I'm sure I will be able to handle it but there are a lot of tough decisions to be made and things to think about before doing anything. Everything will be fine after all I have my OTC family with me.
+Also, I became Organizer, after becoming Organizer I got to know a lot of things which never thought of earlier. Now, whenever I represent OTC I have to be extra cautious which is not something I usually do.
+
+Everyone who has worked in teams might know how difficult it is to take the whole team together and move forward. But when it comes to OTC Team we have a lot of great minds together which makes it more difficult.
+
+Everyone has a different point of view, beliefs and opinions. Which sure does make us slow to do things but we are sure that we have thought this through and tried to look at it from every point of view.
+
+Another recent problem that we are facing is that there was no accountablity of work. We are trying to solve it by giving responsibility to everyone. So what we have done is everyone in the team is responsible for something and for whatever reason they are not able to do it, it's their responsibility to ask someone else to do it for them. What I have learned is to never divide the tasks into micro-tasks, divide them in flows.
+
+For example, if you want to get fruits and vegetables, and the shops are beside each other then you might think that it's quicker to have two people, one for fruits and the other for vegetables. But sometimes it's less reliable, by having two people for a task which can be done by one with not much effort just add unneccessary reliance on an extra person and we all might have our fair share of experiences how reliable people are.
+
+Keeping calendar reminders and updating tasks in our group has also helped a bit. As these are some new changes that we have implemented we are yet to see the outcome of these changes, but hoping that it works.
 
 {{< figure src="./images/otc-fam.jpg" title="OTC  ̶T̶e̶a̶m̶ Fam" alt="A group photo consisting me, Harsh, Kartik, Dheeraj, Tushar, and Pranav" >}}
 
@@ -118,4 +130,4 @@ Also, I became Organizer, after becoming Organizer I got to know a lot of things
 
 Thanks a lot, everyone for being there and supporting us. Thanks, Harsh for starting this amazing community!
 
-Hasta La Vista, take care and be happy!
+Hasta La Vista, take care and be happy🙂!
