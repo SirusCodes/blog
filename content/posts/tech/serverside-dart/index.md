@@ -113,7 +113,7 @@ The development in the Dart server space is very active. While developing for be
 
 # My opinions
 
-## What I'm interested in?
+## What am I interested in?
 
 [Serverpod](serverpod.dev) looks interesting as well. I liked the idea of having a lot of integration out of the box. _I tried to build it but it doesn't support windows yet🥲_
 
