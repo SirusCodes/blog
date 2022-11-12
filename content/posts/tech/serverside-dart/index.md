@@ -19,7 +19,7 @@ In this blog, I will talk about the benchmarks of [Flask (Python)](https://flask
 
 # Benchmarks
 
-The code for the benchmarks is at [SirusCodes](https://github.com/SirusCodes/backend_benchmark)/backend_benchmark](https://github.com/SirusCodes/backend_benchmark). Please [open](https://github.com/SirusCodes/backend_benchmark/issues/new) an [issue](https://github.com/SirusCodes/backend_benchmark/issues/new) if you find any issues in the benchmarks.
+The code for the benchmarks is at [SirusCodes/backend_benchmark](https://github.com/SirusCodes/backend_benchmark). Please [open](https://github.com/SirusCodes/backend_benchmark/issues/new) an [issue](https://github.com/SirusCodes/backend_benchmark/issues/new) if you find any issues in the benchmarks.
 
 I got the below results by running the benchmark and servers on an AWS t3a.small instance running Ubuntu 22.
 
