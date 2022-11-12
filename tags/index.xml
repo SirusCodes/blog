@@ -10,6 +10,52 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2022 [Darshan Rander](https://darshanrander.com) |</copyright><atom:link href="https://blog.darshanrander.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2022 [Darshan Rander](https://darshanrander.com) |</copyright>
+    <lastBuildDate>Sat, 12 Nov 2022 00:00:00 +0530</lastBuildDate><atom:link href="https://blog.darshanrander.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Backend</title>
+      <link>https://blog.darshanrander.com/tags/backend/</link>
+      <pubDate>Sat, 12 Nov 2022 00:00:00 +0530</pubDate>
+      
+      <guid>https://blog.darshanrander.com/tags/backend/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benchmark</title>
+      <link>https://blog.darshanrander.com/tags/benchmark/</link>
+      <pubDate>Sat, 12 Nov 2022 00:00:00 +0530</pubDate>
+      
+      <guid>https://blog.darshanrander.com/tags/benchmark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dart</title>
+      <link>https://blog.darshanrander.com/tags/dart/</link>
+      <pubDate>Sat, 12 Nov 2022 00:00:00 +0530</pubDate>
+      
+      <guid>https://blog.darshanrander.com/tags/dart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Server</title>
+      <link>https://blog.darshanrander.com/tags/server/</link>
+      <pubDate>Sat, 12 Nov 2022 00:00:00 +0530</pubDate>
+      
+      <guid>https://blog.darshanrander.com/tags/server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tech</title>
+      <link>https://blog.darshanrander.com/tags/tech/</link>
+      <pubDate>Sat, 12 Nov 2022 00:00:00 +0530</pubDate>
+      
+      <guid>https://blog.darshanrander.com/tags/tech/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

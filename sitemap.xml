@@ -2,14 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.darshanrander.com/tags/backend/</loc>
+    <lastmod>2022-11-12T00:00:00+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.darshanrander.com/tags/benchmark/</loc>
+    <lastmod>2022-11-12T00:00:00+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.darshanrander.com/</loc>
+    <lastmod>2022-11-12T00:00:00+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.darshanrander.com/tags/dart/</loc>
+    <lastmod>2022-11-12T00:00:00+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.darshanrander.com/posts/</loc>
+    <lastmod>2022-11-12T00:00:00+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.darshanrander.com/tags/server/</loc>
+    <lastmod>2022-11-12T00:00:00+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.darshanrander.com/posts/tech/serverside-dart/</loc>
+    <lastmod>2022-11-12T00:00:00+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.darshanrander.com/tags/</loc>
+    <lastmod>2022-11-12T00:00:00+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.darshanrander.com/tags/tech/</loc>
+    <lastmod>2022-11-12T00:00:00+05:30</lastmod>
+  </url><url>
     <loc>https://blog.darshanrander.com/archives/</loc>
   </url><url>
     <loc>https://blog.darshanrander.com/categories/</loc>
   </url><url>
-    <loc>https://blog.darshanrander.com/</loc>
-  </url><url>
     <loc>https://blog.darshanrander.com/search/</loc>
-  </url><url>
-    <loc>https://blog.darshanrander.com/tags/</loc>
   </url>
 </urlset>
