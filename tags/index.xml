@@ -57,5 +57,32 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Diary</title>
+      <link>https://blog.darshanrander.com/tags/diary/</link>
+      <pubDate>Fri, 11 Nov 2022 00:00:00 +0530</pubDate>
+      
+      <guid>https://blog.darshanrander.com/tags/diary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OTC</title>
+      <link>https://blog.darshanrander.com/tags/otc/</link>
+      <pubDate>Fri, 11 Nov 2022 00:00:00 +0530</pubDate>
+      
+      <guid>https://blog.darshanrander.com/tags/otc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our tech community</title>
+      <link>https://blog.darshanrander.com/tags/our-tech-community/</link>
+      <pubDate>Fri, 11 Nov 2022 00:00:00 +0530</pubDate>
+      
+      <guid>https://blog.darshanrander.com/tags/our-tech-community/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
