@@ -2,7 +2,6 @@
 title: "Serverside Dart"
 summary: A comparison between serverside frameworks in Dart and other languages
 date: 2022-11-12T00:00:00+05:30
-draft: true
 tags: ["Server", "Backend", "Dart", "Benchmark", "Tech"]
 # cover:
 #   image: "./images/cover.png"
