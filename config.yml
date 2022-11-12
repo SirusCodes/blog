@@ -48,6 +48,7 @@ params:
     favicon32x32: favicons/favicon-32x32.png
     apple_touch_icon: favicons/apple-touch-icon.png
     safari_pinned_tab: favicons/safari-pinned-tab.svg
+    disableFingerprinting: true
 
   # home-info mode
   homeInfoParams:
