@@ -1,9 +1,0 @@
-{
-    "grammarly.selectors": [
-        {
-            "language": "markdown",
-            "scheme": "file",
-            "pattern": "content/posts/diary/otc-and-me/index.md"
-        }
-    ]
-}
