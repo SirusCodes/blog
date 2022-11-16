@@ -4,8 +4,9 @@ summary: The age-old saying that "Expectation kills" is so misleading.
 date: 2022-11-19T00:00:00+05:30
 tags: ["Expectations", "Thought", "Diary"]
 draft: true
+series: ["Diary"]
 cover:
-  image: "./images/cover.png"
+  image: "images/cover.png"
   alt: "Expectation never kills cover photo"
   relative: true
 ---
@@ -79,13 +80,13 @@ One of the most difficult tasks is managing your expectation. We already saw how
 
 I will not lie I don't have the answer to how to manage expectations. The reason why it is difficult to manage your expectations you have to understand the other person and we all know that **you can never truly understand someone**. Whenever I thought that I truly understand this person. They managed to make me realize that I don't.
 
-We have to keep in mind that people change with time and situations.
+We have to keep in mind that people change with time and situations, and they are **not** obligated to meet all our expectations.
 
-In my opinion, the best way to manage it is by discussing and understanding the other person better and then expecting. But also has its issues.
+## Talk about your expectations
 
-## All that glitters is not gold
+A lot of times the other person doesn't have any idea if we are expecting anything from them. So we need to communicate it to them. We can't just sit and expect them to understand what we want. We are over-expecting here.
 
-The main issue with getting to an outcome from a discussion is sometimes the other person is not sure if they want or can do something. They might just say things that you want to hear but would themselves never accept. They might do it because of multiple reasons but I feel it's mostly because they don't want to hurt your feelings, but that's a topic for another blog.
+So always convey your expectations to other people. But keep in mind that it's not 100% guaranteed what they say is what they mean. They might just say things that you want to hear but would themselves never accept. They might do it because of multiple reasons but I feel it's mostly because they don't want to hurt your feelings, but that's a topic for another blog.
 
 So it's better to let others have a margin of error where they fail to meet your expectations.
 
