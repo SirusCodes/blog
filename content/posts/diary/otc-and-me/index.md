@@ -3,8 +3,9 @@ title: "Our Tech Community (OTC) and Me"
 summary: Please read the post nothing can summarize this
 date: 2022-11-11T00:00:00+05:30
 tags: ["Our tech community", "OTC", "Diary"]
+series: ["Diary"]
 cover:
-  image: "./images/cover.png"
+  image: "images/cover.png"
   alt: "Our Tech Community and me cover photo"
   relative: true
 ---
