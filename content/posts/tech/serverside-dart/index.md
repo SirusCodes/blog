@@ -37,7 +37,7 @@ The benchmarks are testing backends on 4 bases
 
 In this, the client sends a request to the server then waits for the response and then sends another.
 
-![Synchronous request handling graph](images/benchmarks/sync.svg)
+![Synchronous request handling graph](images/benchmarks/sync.png)
 
 The lowest time taken was by Shelf which is still comparable with other frameworks
 
@@ -47,13 +47,13 @@ In this multiple requests are sent to the server and waits for all the responses
 
 ### GET requests
 
-![GET Asynchronous request handling graph](images/benchmarks/async-get.svg)
+![GET Asynchronous request handling graph](images/benchmarks/async-get.png)
 
 The fastest one was ExpressJS but again with not a great margin.
 
 ### POST requests
 
-![POST Asynchronous request handling graph](images/benchmarks/async-post.svg)
+![POST Asynchronous request handling graph](images/benchmarks/async-post.png)
 
 Here Flask is the fastest and Dart servers perform a bit slower and conduit is the slowest of all.
 
@@ -61,7 +61,7 @@ Here Flask is the fastest and Dart servers perform a bit slower and conduit is t
 
 The multipart requests are usually made to upload images to a server. In this, I'm sending requests synchronously.
 
-![Multi-part requests (File upload) graph](images/benchmarks/multipart.svg)
+![Multi-part requests (File upload) graph](images/benchmarks/multipart.png)
 
 The Dart servers are handling it very slowly. Flask and ExpressJS are killing it.
 
@@ -73,7 +73,7 @@ The Shelf also doesn't provide out-of-the-box support for it but I have used [sh
 
 In this, I'm stress testing the speed of JSON parsing by frameworks. By sending 1.04MB of JSON data over POST request synchronously.
 
-![JSON parsing graph](images/benchmarks/json.svg)
+![JSON parsing graph](images/benchmarks/json.png)
 
 Again you can see Flask and express are twice as fast as Dart frameworks.
 
@@ -103,7 +103,7 @@ Sure currently they are not the best but with time they will surely improve.
 
 Absolutely Yes! Dart is a simple language with a very smooth learning curve.
 
-If you like challenges then exploring the serverside of Dart will provide you with enough challenges as it's new and you will learn a lot along the way. I would recommend you use [shelf](https://pub.dev/packages/shelf)](https://pub.dev/packages/shelf) as it least abstracted framework of all.
+If you like challenges then exploring the serverside of Dart will provide you with enough challenges as it's new and you will learn a lot along the way. I would recommend you use [shelf](https://pub.dev/packages/shelf) as it least abstracted framework of all.
 
 It can be a good side project for you if you are already using Dart for Flutter then you can easily start building without any other dependencies.
 
