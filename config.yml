@@ -15,7 +15,6 @@ minify:
   minifyOutput: true
 
 params:
-  env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Darshan's Blog
   description: "I like to solve problems. Mostly work with app and backend technologies."
   keywords: [Blog, Darshan Rander]
