@@ -1,9 +1,8 @@
 ---
 title: Expectation never kills.
 summary: The age-old saying that "Expectation kills" is so misleading.
-date: 2022-11-19T00:00:00+05:30
+date: 2022-11-18T23:41:00+05:30
 tags: ["Expectations", "Thought", "Diary"]
-draft: true
 series: ["Diary"]
 cover:
   image: "images/cover.png"
