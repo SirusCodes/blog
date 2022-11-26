@@ -115,7 +115,7 @@ Having said that I should also mention that not everyone will have the same basi
 
 It has been a topic in my mind for a long time and I would never feel that I completely understand this topic but I have tried to share what I have learned and felt over the years.
 
-I'm sure that there might be some places where you will feel that I'm wrong about something. I would love to talk about you on this. Just ping me any of my social [links].
+I'm sure that there might be some places where you will feel that I'm wrong about something. I would love to talk about you on this. Just ping me any of my social [links](https://links.darshanrander.com).
 
 In the end, I would say that managing expectations are very difficult but all you can do is try to understand others and if something goes wrong accept it and move on. But at the same time, you should know when it is enough.
 
