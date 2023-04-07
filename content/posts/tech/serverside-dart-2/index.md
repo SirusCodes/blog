@@ -1,7 +1,7 @@
 ---
 title: "Serverside Dart #2"
 summary: A comparison between serverside frameworks in Dart and other languages
-date: 2023-04-07T00:00:00+05:30
+date: 2023-04-08T00:18:00+05:30
 tags: ["Server", "Backend", "Dart", "Benchmark", "Tech"]
 series: ["Tech", "Server-side"]
 cover:
@@ -203,7 +203,9 @@ Future<Response> onRequest(RequestContext context) async {
 
 dart_frog is one of my favorite frameworks in terms of API design as it supports file-based routing. So you can make files and directories instead of writing routes manually. It would be great if we could avoid writing if/else statements to check the kind of requests.
 
-Now it also supports multipart form requests which lacked in the previous blog.
+Under the hood it generates `shelf` code so you can use _almost_ all the packages made for shelf.
+
+Now it also supports multipart form requests which lacking when I was writing the previous blog.
 
 ### minerva (Dart)
 
@@ -226,7 +228,7 @@ Minvera sits kinda in the middle of easy and complex enough. I haven't worked wi
 
 The developer also maintains packages that could be used outside of minerva like [emerald](https://pub.dev/packages/emerald) for JSON parsing, [mcache](https://pub.dev/packages/mcache) for caching values.
 
-It performed well in [load testing](#minerva-dart) because of how it is built and divides load on multiple isolates.
+It performed well in [load testing](#minerva-dart) because of how it is built, so if the load increases it might increase server instances.
 
 ![Minerva's framework](https://raw.githubusercontent.com/GlebBatykov/minerva/main/doc/images/server_structure.png)
 
@@ -333,7 +335,7 @@ if __name__ == '__main__':
     app.run()
 ```
 
-It is a very simple and easy-to-use Python framework. If you like it then I would also suggest you try [FastAPI](https://fastapi.tiangolo.com/)](https://fastapi.tiangolo.com/).
+It is a very simple and easy-to-use Python framework. If you like it then I would also suggest you try [FastAPI](https://fastapi.tiangolo.com/).
 
 ## Concluding features and code
 
@@ -358,4 +360,4 @@ Currently, it only supports [Cloudflare Workers](https://workers.cloudflare.com/
 
 # Final thoughts
 
-Right now I feel Dart backends are going in the right direction and it would be a good time to start learning. Still wouldn't suggest building your billion-dollar company (maybe in a few years 🤞) on it as it would be difficult to find a developer who would love to write Dart backend or [hire me](mail:hey@darshanrander.com).
+Right now I feel Dart backends are going in the right direction and it would be a good time to start learning. Still wouldn't suggest building your billion-dollar company (maybe in a few years 🤞) on it as it would be difficult to find a developer who would love to write Dart backend or [hire me](mailto:hey@darshanrander.com).
