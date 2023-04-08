@@ -19,16 +19,16 @@ In this edition, I have included a few more frameworks, updates to the [SirusCod
 In this blog, I have compared the following frameworks:
 
 - Dart
-  - [Conduit](https://www.theconduit.dev/) (v4.3.6)
+  - [Conduit](https://www.theconduit.dev/) (v4.3.9)
   - [Shelf](https://pub.dev/packages/shelf/) (v1.4.0)
-  - [dart_frog](https://dartfrog.vgv.dev/) (v0.3.4)
-  - [dia](https://pub.dev/packages/dia) (v0.1.3)
+  - [dart_frog](https://dartfrog.vgv.dev/) (v0.3.5)
+  - [dia](https://pub.dev/packages/dia) (v0.1.5)
   - [minerva](https://pub.dev/packages/minerva/) (v0.3.3)
-  - [spry](https://spry.fun/) (v0.4.0)
+  - [spry](https://spry.fun/) (v2.1.1)
 - Go
-  - [fiber](https://gofiber.io) (v2.42.0)
+  - [fiber](https://gofiber.io) (v2.43.0)
 - Python
-  - [Flask](https://flask.palletsprojects.com/en/2.2.x/) (v2.2.2)
+  - [Flask](https://flask.palletsprojects.com/en/2.2.x/) (v2.2.3)
 - Node
   - [Express](https://expressjs.com/) (v4.18.2)
 
