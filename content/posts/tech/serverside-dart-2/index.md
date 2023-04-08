@@ -107,12 +107,6 @@ Shelf starts with 1.5ms RTT and drops to 1.1ms RTT and stays steady till 50 VUs 
 
 It starts with 1.4ms RTT and drops to around 1.15ms RTT and stays steady then drops even further till 0.6ms RTT and gradually increases to 0.8ms with an increase in VUs.
 
-### Fiber (Go)
-
-![Fiber (Go)](images/benchmarks/load_testing/go_fiber.jpeg)
-
-As expected Go has the best results in all the backend frameworks. It starts with 0.3ms RTT and follows the graph of numbers of VUs and increases maximum to 0.45ms RTT.
-
 ### expressjs (Node)
 
 ![expressjs (Node)](images/benchmarks/load_testing/node_express.jpeg)
@@ -124,6 +118,12 @@ Express starts at 1ms RTT and goes down to 0.7ms RTT till 50 VUs gradually incre
 ![Flask (Python)](images/benchmarks/load_testing/py_flask.jpeg)
 
 Flask starts with 0.8ms RTT and increases a bit to 1ms RTT and again decreases to 0.8ms RTT and gradually increases to 1.3ms RTT with some unusual spikes here and there.
+
+### Fiber (Go)
+
+![Fiber (Go)](images/benchmarks/load_testing/go_fiber.jpeg)
+
+As expected Go has the best results in all the backend frameworks. It starts with 0.3ms RTT and follows the graph of numbers of VUs and increases maximum to 0.45ms RTT.
 
 ## Concluding benchmarks
 
@@ -160,7 +160,7 @@ Conduit is a successor of [Aqueduct](https://aqueduct.io/) (another dart framewo
 
 It has an inbuilt ORM and OAuth 2.0 security models.
 
-The that I don't like about it is that it lacks documentation and it's too verbose.
+The thing that I don't like about it is that it lacks documentation and it's too verbose.
 
 ### Dia (Dart)
 
@@ -280,30 +280,6 @@ void main(List<String> arguments) {
 
 Spry is another one of my favorite frameworks not only because it has a cute name but also because it is very flexible. If you like to define routes you can use their [spry_router](https://pub.dev/packages/spry_router) package or if you are like me and loves file-based routing you can have [spry_fsrouter](https://pub.dev/packages/spry_fsrouter) and which has a lot of [first-party packages](https://pub.dev/packages?q=publisher%3Aodroe.com+spry).
 
-### Fiber (Go)
-
-```go
-func main() {
-	app := fiber.New()
-
-	app.Post("/echo", func(c *fiber.Ctx) error {
-		type User struct {
-			Name string `json:"name"`
-		}
-
-		user := new(User)
-		if err := c.BodyParser(user); err != nil {
-			return err
-		}
-		return c.JSON(fiber.Map{"response": "Hello, " + user.Name + "!"})
-	})
-
-	app.Listen(":8080")
-}
-```
-
-Fiber is the fastest framework in the results of our benchmark which was kind of expected as it is written in Golang. But go is not a language that everyone uses and it's a bit difficult to start with as it's a very minimal language. If you like minimal languages then Go is your perfect partner.
-
 ### expressjs (Node)
 
 ```js
@@ -336,6 +312,30 @@ if __name__ == '__main__':
 ```
 
 It is a very simple and easy-to-use Python framework. If you like it then I would also suggest you try [FastAPI](https://fastapi.tiangolo.com/).
+
+### Fiber (Go)
+
+```go
+func main() {
+	app := fiber.New()
+
+	app.Post("/echo", func(c *fiber.Ctx) error {
+		type User struct {
+			Name string `json:"name"`
+		}
+
+		user := new(User)
+		if err := c.BodyParser(user); err != nil {
+			return err
+		}
+		return c.JSON(fiber.Map{"response": "Hello, " + user.Name + "!"})
+	})
+
+	app.Listen(":8080")
+}
+```
+
+Fiber is the fastest framework in the results of our benchmark which was kind of expected as it is written in Golang. But go is not a language that everyone uses and it's a bit difficult to start with as it's a very minimal language. If you like minimal languages then Go is your perfect partner.
 
 ## Concluding features and code
 
