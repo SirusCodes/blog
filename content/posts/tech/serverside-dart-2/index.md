@@ -51,13 +51,12 @@ The benchmarks are testing backends on 4 bases
 
 These show a similar pattern to the [first edition](https://blog.darshanrander.com/posts/tech/serverside-dart/#benchmarks), the only difference here we have a few more frameworks.
 
-|                                                                                                                        |                                                                                                               |
-| ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| {{< figure src="images/benchmarks/performance/sync.jpeg" title="Send one request at a time">}}                         | {{< figure src="images/benchmarks/performance/async_get.jpeg" title="Send multiple GET request at a time" >}} |
-| {{< figure src="images/benchmarks/performance/async_post.jpeg" title="Send multiple POST request at a time"  >}}       | {{< figure src="images/benchmarks/performance/multipart.jpeg" title="Send files with multipart"  >}}          |
-| {{< figure src="images/benchmarks/performance/json.jpeg" title="Send 1.04MB of JSON to server and let it parse it" >}} |                                                                                                               |
+|                                                                                                      |                                                                                                                        |
+| ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| {{< figure src="images/benchmarks/performance/sync.jpeg" title="Send one request at a time">}}       | {{< figure src="images/benchmarks/performance/async.jpeg" title="Send multiple request at a time" >}}                  |
+| {{< figure src="images/benchmarks/performance/multipart.jpeg" title="Send files with multipart"  >}} | {{< figure src="images/benchmarks/performance/json.jpeg" title="Send 1.04MB of JSON to server and let it parse it" >}} |
 
-This time as well Dart Frameworks have some scope for improvement in JSON parsing and Multipart file requests.
+The results are similar to previous edition, Dart Frameworks have some scope for improvement in JSON parsing and Multipart file requests.
 
 ## Load testing
 
@@ -65,7 +64,7 @@ For load testing, I have used [k6](https://k6.io), which is a load-testing tool 
 
 You can have a look at the [config file](https://github.com/SirusCodes/backend_benchmark/blob/main/scripts/k6_load_testing.js) on how it works.
 
-A **TL;DR** would be it simulates the user increasing from 0 to 50, staying there for a minute then increasing to 100 and so on till it reaches 200 in step 50 and then decreases in step 100 till it reaches 0.
+A **TL;DR** would be it simulates the user increasing from 0 to 50, staying there for a minute then increasing to 100 and so on till it reaches 200 in steps of 50 and then decreases in steps of 100 till it reaches 0.
 
 In the graphs below the _**Red line**_, represents the number of **virtual/simulated users** and the _**Blue line**_, represents the **Average round trip time (ms)** on the **Y-axes** and the **time for test** on **X-axis**.
 
