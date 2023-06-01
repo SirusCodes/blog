@@ -1,7 +1,7 @@
 ---
 title: "The Real Truth"
 summary: A lot of times the real truth hides/changes because of different perspectives or to make it morally correct.
-date: 2023-05-31T00:00:00+05:30
+date: 2023-06-05T00:00:00+05:30
 tags: [Truth, Diary]
 series: ["Diary"]
 cover:
@@ -20,17 +20,19 @@ I made this tweet two years back and still believe in it. This blog is to expand
 
 When you ask what is truth to Bing Chat you get the answer - "Truth is when something is in agreement with reality or fact. It is the opposite of falsehood."
 
-I disagree with the answer because I believe that truth is not fact, it can change from person to person. For me, it's something that someone accepts in their reality. I believe that **truth is subjective** and **facts are objective**.
+I disagree with the answer because I believe that truth is not fact, it can change from person to person. For me, truth is something that someone accepts in their reality. **Truth** is something which can **change** but **facts** don't.
 
 # Truth is subjective
 
 Yep, it's one of the biggest lies that truth is "the truth". Truth can vary from person to person or place to place as everyone has different perspectives and experiences.
 
+We all have different perspectives and experiences and we try to project them on all the situations we encounter. This is not wrong as we are saving a lot of energy but we are also losing on information and making **our** version of **truth**.
+
 # Your truth
 
-We find it easier to accept things when we can justify them from our experiences. So we might build our versions of the truth. These versions may vary a bit from others as we might change them so it's closer to our past experiences.
+We make our versions of truth so it's easier for us to accept it. We build them around our beliefs, which we have formed over the years.
 
-The reason for it is we all fear change and will try our best to shield ourselves from it. We don't want to change our beliefs just so we just tweak the facts and build a version that is easier for us to believe. These are just simple basic **white lies** that we tell ourselves to save us from a mental breakdown.
+The reason for it is we all fear change because we have spent a substential amount of energy in building them, so will try our best to shield ourselves from change. We don't want to change our beliefs so we just tweak the facts and build a version that is easier for us to believe. These are just simple basic **white lies** that we tell ourselves to save us from a mental breakdown.
 
 These lies have a big impact on our lives and can affect them positively or negatively. But these are important as well to keep us focused on more important things at the instant than wandering in our world crying while looking at our dark side.
 
@@ -64,7 +66,7 @@ I don't see anything inherently bad about this because the fact is we live aroun
 
 Now that all the people around you have their versions of truth and you are constantly bombarded with their opinions that you subconsciously change your versions as well. Because the more you hear the story the more you believe it.
 
-This is how ads work. They constantly bombard you with the information they want you to believe in. A liked the article ["What Does Advertising Do?" from Art Markman Ph.D.](https://www.psychologytoday.com/us/blog/ulterior-motives/201008/what-does-advertising-do) where he talks about it in detail.
+This is how ads work. They constantly bombard you with the information they want you to believe in. I liked the article ["What Does Advertising Do?" from Art Markman Ph.D.](https://www.psychologytoday.com/us/blog/ulterior-motives/201008/what-does-advertising-do) where he talks about it in detail.
 
 # Is it worth finding the real truth?
 
@@ -74,6 +76,6 @@ In my opinion, it depends on how important for you it is to find it. For me most
 
 # How one can find the real truth?
 
-It depends... If you can factually verify it then you have your **real truth** which is fact.
+Life is not easy, it is impossible to find the real truth when human **feelings** are involved. Because feelings are something that never remains constant and can be influenced with much ease. So you might say something is true for you today, but it not be true tomorrow.
 
-But life is not easy, it is impossible to find the real truth when human **feelings** are involved. Because feelings are something that never remains constant and can be influenced with much ease. So you might say something is true for you today, but it not be true tomorrow.
+So, there is no real truth.
