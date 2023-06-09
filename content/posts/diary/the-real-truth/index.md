@@ -1,7 +1,7 @@
 ---
 title: "The Real Truth"
 summary: A lot of times the real truth hides/changes because of different perspectives or to make it morally correct.
-date: 2023-06-05T00:00:00+05:30
+date: 2023-06-10T00:16:00+05:30
 tags: [Truth, Diary]
 series: ["Diary"]
 cover:
