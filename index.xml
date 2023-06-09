@@ -11,7 +11,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2022 [Darshan Rander](https://darshanrander.com) |</copyright>
-    <lastBuildDate>Sat, 08 Apr 2023 00:18:00 +0530</lastBuildDate><atom:link href="https://blog.darshanrander.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Jun 2023 00:16:00 +0530</lastBuildDate><atom:link href="https://blog.darshanrander.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Real Truth</title>
+      <link>https://blog.darshanrander.com/posts/diary/the-real-truth/</link>
+      <pubDate>Sat, 10 Jun 2023 00:16:00 +0530</pubDate>
+      
+      <guid>https://blog.darshanrander.com/posts/diary/the-real-truth/</guid>
+      <description>A lot of times the real truth hides/changes because of different perspectives or to make it morally correct.</description>
+    </item>
+    
     <item>
       <title>Serverside Dart #2</title>
       <link>https://blog.darshanrander.com/posts/tech/serverside-dart-2/</link>
