@@ -1,5 +1,5 @@
 ---
-title: CustomPainter Animations in Flutter
+title: Animating Canvas in Flutter
 summary: CustomPainter is an amazing way to have total control on what you want to paint on screen. Animating these could be tricky but the results are worth it.
 date: 2024-04-20T00:00:00+05:30
 tags: ["Flutter", "Dart", "UI", "CustomPainter", "Animation"]
