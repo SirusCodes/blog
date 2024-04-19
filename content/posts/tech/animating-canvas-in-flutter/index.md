@@ -5,10 +5,12 @@ date: 2024-04-20T00:00:00+05:30
 tags: ["Flutter", "Dart", "UI", "CustomPainter", "Animation"]
 series: ["Tech", "Flutter"]
 cover:
-  image: "images/cover.png"
+  image: "images/cover.webp"
   alt: "CustomPainter Animations in Flutter cover photo"
   relative: true
 ---
+
+> TL;DR where is the code? - [here](https://zapp.run/edit/tree-split-animation-zlt6069tlt70?entry=lib/main.dart&file=lib/tree_split_animation.dart)
 
 Hey everyone! 👋
 
