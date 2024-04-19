@@ -760,3 +760,86 @@ TreeSplitAnimationPainter({
 ```
 
 Finally we can use this custom painter in our app!! But before that I would like to suggest you some of the optimizations for the app.
+
+### Optimize the animation
+
+Optimizing the canvas animations is not that difficult you just need to be away what are you doing and anything you do may or may not have impact on memory, so beware do it only if you need it.
+
+> Premature optimization is the root of evil.
+
+---
+
+Pass your `AnimationController` to the `repaint` property in the `CustomPainter` constructor.
+
+```dart
+class TreeSplitAnimationPainter extends CustomPainter {
+  TreeSplitAnimationPainter({
+    required AnimationController animationController,
+  }) : super(repaint: animationController);             // Pass the controller here
+
+  ...
+}
+```
+
+---
+
+Never do set `shouldRepaint` to `true`
+
+```dart
+class Sky extends CustomPainter {
+  Sky(this.color);
+
+  final Color color;
+
+  @override
+  void paint(canvas, size) {
+    ...
+  }
+
+  // Don't do this
+  @override
+  bool shouldRepaint(Sky oldDelegate) => true;
+}
+```
+
+Always specify `shouldRepaint` to react to changes.
+
+```dart
+class Sky extends CustomPainter {
+  Sky(this.color);
+
+  final Color color;
+
+  @override
+  void paint(canvas, size) {
+    ...
+  }
+
+  // Do do this
+  @override
+  bool shouldRepaint(Sky oldDelegate) => color != oldDelegate.color;
+}
+```
+
+---
+
+Set `isComplex` to `true` in `CustomPaint` widget
+
+```dart
+CustomPaint(
+  ...
+  isComplex: true,
+),
+```
+
+This will cache images of the CustomPaint.
+
+---
+
+If an animation causes random rebuilds of your screen you can use [RepaintBoundary](https://api.flutter.dev/flutter/widgets/RepaintBoundary-class.html) widget. It separates it's children from the parent while repainting.
+
+### Code and Thanks note
+
+You can go to [this site](https://zapp.run/edit/tree-split-animation-zlt6069tlt70?entry=lib/main.dart&file=lib/tree_split_animation.dart) to play around with the code and test the code yourself.
+
+Thanks a lot for reading this long blog! I really enjoy working with animations and CustomPainter in flutter, do connect with me over my [socials](https://links.darshanrander.com) if you want to have a chat or need any help.
