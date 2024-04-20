@@ -840,6 +840,12 @@ This will cache images of the CustomPaint.
 
 If an animation causes random rebuilds of your screen you can use [RepaintBoundary](https://api.flutter.dev/flutter/widgets/RepaintBoundary-class.html) widget. It separates it's children from the parent while repainting.
 
+```dart
+RepaintBoundary(
+  child: ...
+)
+```
+
 ### Code and Thanks note
 
 You can go to [this site](https://zapp.run/edit/tree-split-animation-zlt6069tlt70?entry=lib/main.dart&file=lib/tree_split_animation.dart) to play around with the code and test the code yourself.
