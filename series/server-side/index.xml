@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Server-side on Darshan&#39;s Blog</title>
+    <title>Server-Side on Darshan&#39;s Blog</title>
     <link>https://blog.darshanrander.com/series/server-side/</link>
-    <description>Recent content in Server-side on Darshan&#39;s Blog</description>
+    <description>Recent content in Server-Side on Darshan&#39;s Blog</description>
     <image>
       <url>https://darshanrander.com/static/img/og-general.png</url>
       <link>https://darshanrander.com/static/img/og-general.png</link>
