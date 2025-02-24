@@ -5,12 +5,14 @@
     <link>https://blog.darshanrander.com/posts/</link>
     <description>Recent content in Posts on Darshan&#39;s Blog</description>
     <image>
+      <title>Darshan&#39;s Blog</title>
       <url>https://darshanrander.com/static/img/og-general.png</url>
       <link>https://darshanrander.com/static/img/og-general.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.144.2</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2022 [Darshan Rander](https://darshanrander.com) |</copyright>
-    <lastBuildDate>Sat, 20 Apr 2024 00:00:00 +0530</lastBuildDate><atom:link href="https://blog.darshanrander.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>2022 Darshan Rander |</copyright>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://blog.darshanrander.com/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

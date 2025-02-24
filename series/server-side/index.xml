@@ -5,30 +5,28 @@
     <link>https://blog.darshanrander.com/series/server-side/</link>
     <description>Recent content in Server-Side on Darshan&#39;s Blog</description>
     <image>
+      <title>Darshan&#39;s Blog</title>
       <url>https://darshanrander.com/static/img/og-general.png</url>
       <link>https://darshanrander.com/static/img/og-general.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.144.2</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2022 [Darshan Rander](https://darshanrander.com) |</copyright>
-    <lastBuildDate>Sat, 08 Apr 2023 00:18:00 +0530</lastBuildDate><atom:link href="https://blog.darshanrander.com/series/server-side/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>2022 Darshan Rander |</copyright>
+    <lastBuildDate>Sat, 08 Apr 2023 00:18:00 +0530</lastBuildDate>
+    <atom:link href="https://blog.darshanrander.com/series/server-side/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Serverside Dart #2</title>
       <link>https://blog.darshanrander.com/posts/tech/serverside-dart-2/</link>
       <pubDate>Sat, 08 Apr 2023 00:18:00 +0530</pubDate>
-      
       <guid>https://blog.darshanrander.com/posts/tech/serverside-dart-2/</guid>
       <description>A comparison between serverside frameworks in Dart and other languages</description>
     </item>
-    
     <item>
       <title>Serverside Dart</title>
       <link>https://blog.darshanrander.com/posts/tech/serverside-dart/</link>
       <pubDate>Sat, 12 Nov 2022 00:00:00 +0530</pubDate>
-      
       <guid>https://blog.darshanrander.com/posts/tech/serverside-dart/</guid>
       <description>A comparison between serverside frameworks in Dart and other languages</description>
     </item>
-    
   </channel>
 </rss>

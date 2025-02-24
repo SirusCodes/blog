@@ -5,48 +5,42 @@
     <link>https://blog.darshanrander.com/series/</link>
     <description>Recent content in Series on Darshan&#39;s Blog</description>
     <image>
+      <title>Darshan&#39;s Blog</title>
       <url>https://darshanrander.com/static/img/og-general.png</url>
       <link>https://darshanrander.com/static/img/og-general.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.144.2</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2022 [Darshan Rander](https://darshanrander.com) |</copyright>
-    <lastBuildDate>Sat, 20 Apr 2024 00:00:00 +0530</lastBuildDate><atom:link href="https://blog.darshanrander.com/series/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>2022 Darshan Rander |</copyright>
+    <lastBuildDate>Sat, 20 Apr 2024 00:00:00 +0530</lastBuildDate>
+    <atom:link href="https://blog.darshanrander.com/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Flutter</title>
       <link>https://blog.darshanrander.com/series/flutter/</link>
       <pubDate>Sat, 20 Apr 2024 00:00:00 +0530</pubDate>
-      
       <guid>https://blog.darshanrander.com/series/flutter/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Tech</title>
       <link>https://blog.darshanrander.com/series/tech/</link>
       <pubDate>Sat, 20 Apr 2024 00:00:00 +0530</pubDate>
-      
       <guid>https://blog.darshanrander.com/series/tech/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Diary</title>
       <link>https://blog.darshanrander.com/series/diary/</link>
       <pubDate>Sat, 10 Jun 2023 00:16:00 +0530</pubDate>
-      
       <guid>https://blog.darshanrander.com/series/diary/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Server-Side</title>
       <link>https://blog.darshanrander.com/series/server-side/</link>
       <pubDate>Sat, 08 Apr 2023 00:18:00 +0530</pubDate>
-      
       <guid>https://blog.darshanrander.com/series/server-side/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

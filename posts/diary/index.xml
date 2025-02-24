@@ -5,39 +5,35 @@
     <link>https://blog.darshanrander.com/posts/diary/</link>
     <description>Recent content in Diary on Darshan&#39;s Blog</description>
     <image>
+      <title>Darshan&#39;s Blog</title>
       <url>https://darshanrander.com/static/img/og-general.png</url>
       <link>https://darshanrander.com/static/img/og-general.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.144.2</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2022 [Darshan Rander](https://darshanrander.com) |</copyright>
-    <lastBuildDate>Sat, 10 Jun 2023 00:16:00 +0530</lastBuildDate><atom:link href="https://blog.darshanrander.com/posts/diary/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>2022 Darshan Rander |</copyright>
+    <lastBuildDate>Sat, 10 Jun 2023 00:16:00 +0530</lastBuildDate>
+    <atom:link href="https://blog.darshanrander.com/posts/diary/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Real Truth</title>
       <link>https://blog.darshanrander.com/posts/diary/the-real-truth/</link>
       <pubDate>Sat, 10 Jun 2023 00:16:00 +0530</pubDate>
-      
       <guid>https://blog.darshanrander.com/posts/diary/the-real-truth/</guid>
       <description>A lot of times the real truth hides/changes because of different perspectives or to make it morally correct.</description>
     </item>
-    
     <item>
       <title>Expectation never kills.</title>
       <link>https://blog.darshanrander.com/posts/diary/expectation-never-kills/</link>
       <pubDate>Fri, 18 Nov 2022 23:41:00 +0530</pubDate>
-      
       <guid>https://blog.darshanrander.com/posts/diary/expectation-never-kills/</guid>
       <description>The age-old saying that &amp;ldquo;Expectation kills&amp;rdquo; is so misleading.</description>
     </item>
-    
     <item>
       <title>Our Tech Community (OTC) and Me</title>
       <link>https://blog.darshanrander.com/posts/diary/otc-and-me/</link>
       <pubDate>Fri, 11 Nov 2022 00:00:00 +0530</pubDate>
-      
       <guid>https://blog.darshanrander.com/posts/diary/otc-and-me/</guid>
       <description>Please read the post nothing can summarize this</description>
     </item>
-    
   </channel>
 </rss>
