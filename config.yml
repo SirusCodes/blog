@@ -3,7 +3,7 @@ languageCode: en-us
 title: Darshan's Blog
 theme: PaperMod
 copyright: "&copy; 2022 [Darshan Rander](https://darshanrander.com) |"
-paginate: 10
+pagination.pagerSize: 10
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -58,8 +58,8 @@ params:
   socialIcons:
     - name: website
       url: "https://darshanrander.com"
-    - name: twitter
-      url: "https://twitter.com/SirusTweets"
+    - name: x
+      url: "https://x.com/SirusTweets"
     - name: github
       url: "https://github.com/SirusCodes"
     - name: linkedin
