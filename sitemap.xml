@@ -2,38 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.darshanrander.com/posts/tech/animating-canvas-in-flutter/</loc>
-    <lastmod>2024-04-20T00:00:00+05:30</lastmod>
-  </url><url>
     <loc>https://blog.darshanrander.com/</loc>
+    <lastmod>2025-03-01T00:00:00+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.darshanrander.com/posts/tech/how-i-wrote-my-language/</loc>
+    <lastmod>2025-03-01T00:00:00+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.darshanrander.com/posts/</loc>
+    <lastmod>2025-03-01T00:00:00+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.darshanrander.com/series/</loc>
+    <lastmod>2025-03-01T00:00:00+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.darshanrander.com/series/server-side/</loc>
+    <lastmod>2025-03-01T00:00:00+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.darshanrander.com/posts/tech/</loc>
+    <lastmod>2025-03-01T00:00:00+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.darshanrander.com/series/tech/</loc>
+    <lastmod>2025-03-01T00:00:00+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.darshanrander.com/posts/tech/animating-canvas-in-flutter/</loc>
     <lastmod>2024-04-20T00:00:00+05:30</lastmod>
   </url><url>
     <loc>https://blog.darshanrander.com/series/flutter/</loc>
     <lastmod>2024-04-20T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://blog.darshanrander.com/posts/</loc>
-    <lastmod>2024-04-20T00:00:00+05:30</lastmod>
-  </url><url>
-    <loc>https://blog.darshanrander.com/series/</loc>
-    <lastmod>2024-04-20T00:00:00+05:30</lastmod>
-  </url><url>
-    <loc>https://blog.darshanrander.com/series/tech/</loc>
-    <lastmod>2024-04-20T00:00:00+05:30</lastmod>
-  </url><url>
-    <loc>https://blog.darshanrander.com/posts/tech/</loc>
-    <lastmod>2024-04-20T00:00:00+05:30</lastmod>
+    <loc>https://blog.darshanrander.com/posts/diary/</loc>
+    <lastmod>2023-06-10T00:16:00+05:30</lastmod>
   </url><url>
     <loc>https://blog.darshanrander.com/series/diary/</loc>
     <lastmod>2023-06-10T00:16:00+05:30</lastmod>
   </url><url>
-    <loc>https://blog.darshanrander.com/posts/diary/</loc>
-    <lastmod>2023-06-10T00:16:00+05:30</lastmod>
-  </url><url>
     <loc>https://blog.darshanrander.com/posts/diary/the-real-truth/</loc>
     <lastmod>2023-06-10T00:16:00+05:30</lastmod>
-  </url><url>
-    <loc>https://blog.darshanrander.com/series/server-side/</loc>
-    <lastmod>2023-04-08T00:18:00+05:30</lastmod>
   </url><url>
     <loc>https://blog.darshanrander.com/posts/tech/serverside-dart-2/</loc>
     <lastmod>2023-04-08T00:18:00+05:30</lastmod>
