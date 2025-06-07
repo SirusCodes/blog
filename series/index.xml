@@ -9,16 +9,16 @@
       <url>https://darshanrander.com/static/img/og-general.png</url>
       <link>https://darshanrander.com/static/img/og-general.png</link>
     </image>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo -- 0.147.7</generator>
     <language>en-us</language>
     <copyright>2022 Darshan Rander |</copyright>
     <lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0530</lastBuildDate>
     <atom:link href="https://blog.darshanrander.com/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Server-Side</title>
-      <link>https://blog.darshanrander.com/series/server-side/</link>
+      <title>AntiLang</title>
+      <link>https://blog.darshanrander.com/series/antilang/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0530</pubDate>
-      <guid>https://blog.darshanrander.com/series/server-side/</guid>
+      <guid>https://blog.darshanrander.com/series/antilang/</guid>
       <description></description>
     </item>
     <item>
@@ -40,6 +40,13 @@
       <link>https://blog.darshanrander.com/series/diary/</link>
       <pubDate>Sat, 10 Jun 2023 00:16:00 +0530</pubDate>
       <guid>https://blog.darshanrander.com/series/diary/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Server-Side</title>
+      <link>https://blog.darshanrander.com/series/server-side/</link>
+      <pubDate>Sat, 08 Apr 2023 00:18:00 +0530</pubDate>
+      <guid>https://blog.darshanrander.com/series/server-side/</guid>
       <description></description>
     </item>
   </channel>

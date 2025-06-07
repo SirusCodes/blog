@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AntiLang on Darshan&#39;s Blog</title>
+    <link>https://blog.darshanrander.com/series/antilang/</link>
+    <description>Recent content in AntiLang on Darshan&#39;s Blog</description>
+    <image>
+      <title>Darshan&#39;s Blog</title>
+      <url>https://darshanrander.com/static/img/og-general.png</url>
+      <link>https://darshanrander.com/static/img/og-general.png</link>
+    </image>
+    <generator>Hugo -- 0.147.7</generator>
+    <language>en-us</language>
+    <copyright>2022 Darshan Rander |</copyright>
+    <lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0530</lastBuildDate>
+    <atom:link href="https://blog.darshanrander.com/series/antilang/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I wrote my language: AntiLang</title>
+      <link>https://blog.darshanrander.com/posts/tech/how-i-wrote-my-language/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0530</pubDate>
+      <guid>https://blog.darshanrander.com/posts/tech/how-i-wrote-my-language/</guid>
+      <description>In this blog, I talk about my thought process, what I learned, and how I built AntiLang.</description>
+    </item>
+  </channel>
+</rss>

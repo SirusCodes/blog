@@ -9,7 +9,7 @@
       <url>https://darshanrander.com/static/img/og-general.png</url>
       <link>https://darshanrander.com/static/img/og-general.png</link>
     </image>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo -- 0.147.7</generator>
     <language>en-us</language>
     <copyright>2022 Darshan Rander |</copyright>
     <lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0530</lastBuildDate>
@@ -19,7 +19,7 @@
       <link>https://blog.darshanrander.com/posts/tech/how-i-wrote-my-language/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0530</pubDate>
       <guid>https://blog.darshanrander.com/posts/tech/how-i-wrote-my-language/</guid>
-      <description>In this blog, I&amp;rsquo;m talking about my thought process, learning, and how I built AntiLang.</description>
+      <description>In this blog, I talk about my thought process, what I learned, and how I built AntiLang.</description>
     </item>
     <item>
       <title>Animating Canvas in Flutter (Draft)</title>
