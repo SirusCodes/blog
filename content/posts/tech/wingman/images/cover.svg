@@ -1,0 +1,9 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<rect width="1200" height="630" fill="#121212" />
+	<path d="M-92 24C-92 -20 -56 -56 -12 -56H250C294 -56 330 -20 330 24V186C330 230 294 266 250 266H-12C-56 266 -92 230 -92 186V24Z" stroke="#222222" stroke-opacity="0.55" stroke-width="34" transform="rotate(-18 119 105)" />
+	<path d="M724 -54C724 -98 760 -134 804 -134H1066C1110 -134 1146 -98 1146 -54V108C1146 152 1110 188 1066 188H804C760 188 724 152 724 108V-54Z" stroke="#222222" stroke-opacity="0.55" stroke-width="34" transform="rotate(22 935 27)" />
+	<path d="M280 478C280 434 316 398 360 398H622C666 398 702 434 702 478V640C702 684 666 720 622 720H360C316 720 280 684 280 640V478Z" stroke="#222222" stroke-opacity="0.55" stroke-width="34" transform="rotate(-14 491 559)" />
+	<text x="90" y="290" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="86" font-weight="800">Wingman</text>
+	<text x="90" y="356" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="500">A personal RAG chatbot for my portfolio site</text>
+	<text x="90" y="452" fill="#E2E8F0" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="400">Learning RAG, shipping useful AI, and keeping cost under control.</text>
+</svg>

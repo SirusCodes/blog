@@ -26,7 +26,7 @@ I have discussed this thing with almost all my friends over the years and it has
 
 But the idea of writing this as a blog came when [Dheeraj](https://twitter.com/DhiruCodes/) said the comment mentioned below.
 
-{{< tweet user="DhiruCodes" id="1569659925621788672" >}}
+{{< x user="DhiruCodes" id="1569659925621788672" >}}
 
 Nothing wrong here but "Expectations hurt anyways.", this line almost triggered me. Nothing against [Tushar](https://twitter.com/tusharnankanii) he might have a different experience than mine and if anyone of you readers wants to **discuss** this topic with me I'm always up for such discussion you can contact me on any of the mediums from [links.darshanrander.com](https://links.darshanrander.com)
 

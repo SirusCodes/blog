@@ -1,5 +1,5 @@
 baseURL: https://blog.darshanrander.com
-languageCode: en-us
+locale: en-us
 title: Darshan's Blog
 theme: PaperMod
 copyright: "&copy; 2022 [Darshan Rander](https://darshanrander.com) |"

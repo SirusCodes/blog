@@ -12,7 +12,7 @@ cover:
 
 This trail of thought started with a conversation I had with someone I don't remember but it was such a great thought, I also tweeted it in my thread.
 
-{{< tweet user="SirusTweets" id="1350358053556637697" >}}
+{{< x user="SirusTweets" id="1350358053556637697" >}}
 
 I made this tweet two years back and still believe in it. This blog is to expand on that thought.
 
