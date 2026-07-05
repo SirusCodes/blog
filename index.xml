@@ -9,11 +9,18 @@
       <url>https://darshanrander.com/static/img/og-general.png</url>
       <link>https://darshanrander.com/static/img/og-general.png</link>
     </image>
-    <generator>Hugo -- 0.152.2</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>2022 Darshan Rander |</copyright>
-    <lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 00:00:00 +0530</lastBuildDate>
     <atom:link href="https://blog.darshanrander.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wingman: my personal RAG chatbot</title>
+      <link>https://blog.darshanrander.com/posts/tech/wingman/</link>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 +0530</pubDate>
+      <guid>https://blog.darshanrander.com/posts/tech/wingman/</guid>
+      <description>I built Wingman to learn how RAG systems work, ship something useful for my portfolio site, and experiment with the cost and performance trade-offs that make these systems feel production-ready.</description>
+    </item>
     <item>
       <title>How I wrote my language: AntiLang</title>
       <link>https://blog.darshanrander.com/posts/tech/how-i-wrote-my-language/</link>
