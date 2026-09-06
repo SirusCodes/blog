@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OwnDB on Darshan&#39;s Blog</title>
+    <link>https://blog.darshanrander.com/series/owndb/</link>
+    <description>Recent content in OwnDB on Darshan&#39;s Blog</description>
+    <image>
+      <title>Darshan&#39;s Blog</title>
+      <url>https://darshanrander.com/static/img/og-general.png</url>
+      <link>https://darshanrander.com/static/img/og-general.png</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>2022 Darshan Rander |</copyright>
+    <lastBuildDate>Sun, 06 Sep 2026 00:00:00 +0530</lastBuildDate>
+    <atom:link href="https://blog.darshanrander.com/series/owndb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OwnDB: An attempt at democratizing database</title>
+      <link>https://blog.darshanrander.com/posts/tech/owndb/</link>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0530</pubDate>
+      <guid>https://blog.darshanrander.com/posts/tech/owndb/</guid>
+      <description>I built OwnDB to learn how RAG systems work, ship something useful for my portfolio site, and experiment with the cost and performance trade-offs that make these systems feel production-ready.</description>
+    </item>
+  </channel>
+</rss>
