@@ -12,11 +12,11 @@ cover:
 
 It started with Frugality; the thought of saving some money by self-hosting Database(s). What began as a simple self-hosting automation quickly spiralled into research and cost analysis, followed by the realization that RDS is essentially a software wrapper and no open-source tool handles the setup, management, and scaling of a database without an elaborate system. This realization, paired with being at the peak of Mt. Stupid, ultimately pushed us to build what we know today as OwnDB.
 
-# The Dream!
+# Dream
 
 A minimally intrusive system that relies on nothing but SSH to be your personal Database Administrator. We wanted it to be able to run on any machine, be it a container, VM, home server, or even a smart toaster. The goal was to democratize database management and make it accessible to everyone.
 
-# The Plan!
+# Plan
 
 We decided to build a PoC and then give it to people and take their feedback on the project. We thought it would take almost a month to complete, and we were so wrong about the timelines here - this was when AI tools weren't as good as they are today. Not saying we would be successful if they were 🙃.
 
@@ -24,7 +24,7 @@ Before we started, we wanted to know what kind of audience we wanted to build it
 
 Now, with a goal in mind (get users), we started building OwnDB. While we knew what we wanted, we had to figure out how to get there. That is, decide the tools. We thought of [Ansible](https://docs.ansible.com/projects/ansible/latest/index.html), [Pulumi](https://www.pulumi.com/), etc. But just like any good engineer, we decided we needed to build the stack ourselves and started building our own automation. I guess we forgot about [xkcd's comic - Standards](https://xkcd.com/927/) and started building one ourselves.
 
-# The Design!
+# Design
 
 The Dream was to deploy a database on a smart toaster, so how can you do that?
 
@@ -55,7 +55,7 @@ With this in mind, we had divided OwnDB into two parts -
 
 So, in the worst-case scenario, even if the dashboard is compromised, it cannot read or connect to the user machine. Dashboard and Engine could only communicate via Database or a Queue.
 
-# The Build!
+# Build
 
 We already had the architecture in mind and were able to build it successfully. It felt great to see everything fall into place and build a beautiful application.
 
@@ -67,7 +67,7 @@ Soon, a few decisions we made came back to bite us. The primary one was not usin
 
 While building, we also found a few alternatives like [CrunchyData's postgres-operator](https://github.com/CrunchyData/postgres-operator) and [CloudNativePG](https://cloud-native-pg.io/), but they all had some downsides (or at least we thought so).
 
-# The Launch!
+# Launch
 
 After a few fights over how something should be implemented, we were all happy with where we were and decided to launch it and talk to people about it.
 
@@ -85,7 +85,7 @@ He also shared that a lot of big companies have teams who manage databases for o
 
 Through these interviews, we realized that it is more important for us to understand our target user and build it for them, as the expectations of users are very different for every target audience. A startup might require basic features, but enterprises demand complex features with SLA guarantees.
 
-# The Reality!
+# Reality
 
 Finally, after the interview, we were in reality and realized how much more work we needed to do to make this a product.
 
@@ -95,7 +95,7 @@ With motivation already low, we also found glaring issues with its architecture,
 
 After these realizations, we had no motivation to continue working on this project and decided to sunset it.
 
-# The Lessons!
+# Lessons
 
 As a proverb says, "Failure is a stepping stone to success." Though we didn't feel like continuing with the project, we have learned a lot of valuable lessons from this.
 
