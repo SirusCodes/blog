@@ -12,14 +12,14 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>2022 Darshan Rander |</copyright>
-    <lastBuildDate>Sun, 06 Sep 2026 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 00:00:00 +0530</lastBuildDate>
     <atom:link href="https://blog.darshanrander.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>OwnDB: An attempt at democratizing database</title>
+      <title>OwnDB: An Attempt At Democratizing Database</title>
       <link>https://blog.darshanrander.com/posts/tech/owndb/</link>
-      <pubDate>Sun, 06 Sep 2026 00:00:00 +0530</pubDate>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0530</pubDate>
       <guid>https://blog.darshanrander.com/posts/tech/owndb/</guid>
-      <description>I built OwnDB to learn how RAG systems work, ship something useful for my portfolio site, and experiment with the cost and performance trade-offs that make these systems feel production-ready.</description>
+      <description>OwnDB started as an experiment to make self-hosting PostgreSQL as simple as using a managed database. Along the way, we explored agentless provisioning, SSH-based infrastructure management, secrets management, and the challenges of turning a proof of concept into a production-ready database platform.</description>
     </item>
     <item>
       <title>Wingman: my personal RAG chatbot</title>
