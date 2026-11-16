@@ -12,20 +12,34 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>2022 Darshan Rander |</copyright>
-    <lastBuildDate>Fri, 11 Sep 2026 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 00:00:00 +0530</lastBuildDate>
     <atom:link href="https://blog.darshanrander.com/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>OwnDB</title>
-      <link>https://blog.darshanrander.com/series/owndb/</link>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0530</pubDate>
-      <guid>https://blog.darshanrander.com/series/owndb/</guid>
+      <title>Kubernetes</title>
+      <link>https://blog.darshanrander.com/series/kubernetes/</link>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0530</pubDate>
+      <guid>https://blog.darshanrander.com/series/kubernetes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OwnPreview</title>
+      <link>https://blog.darshanrander.com/series/ownpreview/</link>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0530</pubDate>
+      <guid>https://blog.darshanrander.com/series/ownpreview/</guid>
       <description></description>
     </item>
     <item>
       <title>Tech</title>
       <link>https://blog.darshanrander.com/series/tech/</link>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0530</pubDate>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0530</pubDate>
       <guid>https://blog.darshanrander.com/series/tech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OwnDB</title>
+      <link>https://blog.darshanrander.com/series/owndb/</link>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0530</pubDate>
+      <guid>https://blog.darshanrander.com/series/owndb/</guid>
       <description></description>
     </item>
     <item>

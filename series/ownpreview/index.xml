@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OwnPreview on Darshan&#39;s Blog</title>
+    <link>https://blog.darshanrander.com/series/ownpreview/</link>
+    <description>Recent content in OwnPreview on Darshan&#39;s Blog</description>
+    <image>
+      <title>Darshan&#39;s Blog</title>
+      <url>https://darshanrander.com/static/img/og-general.png</url>
+      <link>https://darshanrander.com/static/img/og-general.png</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>2022 Darshan Rander |</copyright>
+    <lastBuildDate>Mon, 16 Nov 2026 00:00:00 +0530</lastBuildDate>
+    <atom:link href="https://blog.darshanrander.com/series/ownpreview/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OwnPreview #0: Why I’m Building a K8s Preview Platform</title>
+      <link>https://blog.darshanrander.com/posts/tech/ownpreview-0/</link>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0530</pubDate>
+      <guid>https://blog.darshanrander.com/posts/tech/ownpreview-0/</guid>
+      <description>OwnPreview is an open-source, self-hosted platform for Kubernetes pull request previews. In this introduction, I break down the motivation, the architecture, and the plan to build scale-to-zero ephemeral environments from scratch.</description>
+    </item>
+  </channel>
+</rss>

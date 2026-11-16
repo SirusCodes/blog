@@ -12,8 +12,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>2022 Darshan Rander |</copyright>
-    <lastBuildDate>Fri, 11 Sep 2026 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 00:00:00 +0530</lastBuildDate>
     <atom:link href="https://blog.darshanrander.com/series/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OwnPreview #0: Why I’m Building a K8s Preview Platform</title>
+      <link>https://blog.darshanrander.com/posts/tech/ownpreview-0/</link>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0530</pubDate>
+      <guid>https://blog.darshanrander.com/posts/tech/ownpreview-0/</guid>
+      <description>OwnPreview is an open-source, self-hosted platform for Kubernetes pull request previews. In this introduction, I break down the motivation, the architecture, and the plan to build scale-to-zero ephemeral environments from scratch.</description>
+    </item>
     <item>
       <title>OwnDB: An Attempt At Democratizing Database</title>
       <link>https://blog.darshanrander.com/posts/tech/owndb/</link>
