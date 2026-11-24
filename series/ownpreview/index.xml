@@ -12,8 +12,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>2022 Darshan Rander |</copyright>
-    <lastBuildDate>Mon, 16 Nov 2026 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 00:00:00 +0530</lastBuildDate>
     <atom:link href="https://blog.darshanrander.com/series/ownpreview/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OwnPreview #1: Building Images with BuildKit</title>
+      <link>https://blog.darshanrander.com/posts/tech/ownpreview-1/</link>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0530</pubDate>
+      <guid>https://blog.darshanrander.com/posts/tech/ownpreview-1/</guid>
+      <description>Building container images securely inside Kubernetes with BuildKit.</description>
+    </item>
     <item>
       <title>OwnPreview #0: Why I’m Building a K8s Preview Platform</title>
       <link>https://blog.darshanrander.com/posts/tech/ownpreview-0/</link>

@@ -12,26 +12,26 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>2022 Darshan Rander |</copyright>
-    <lastBuildDate>Mon, 16 Nov 2026 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 00:00:00 +0530</lastBuildDate>
     <atom:link href="https://blog.darshanrander.com/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kubernetes</title>
       <link>https://blog.darshanrander.com/series/kubernetes/</link>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0530</pubDate>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0530</pubDate>
       <guid>https://blog.darshanrander.com/series/kubernetes/</guid>
       <description></description>
     </item>
     <item>
       <title>OwnPreview</title>
       <link>https://blog.darshanrander.com/series/ownpreview/</link>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0530</pubDate>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0530</pubDate>
       <guid>https://blog.darshanrander.com/series/ownpreview/</guid>
       <description></description>
     </item>
     <item>
       <title>Tech</title>
       <link>https://blog.darshanrander.com/series/tech/</link>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0530</pubDate>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0530</pubDate>
       <guid>https://blog.darshanrander.com/series/tech/</guid>
       <description></description>
     </item>
